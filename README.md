@@ -237,15 +237,19 @@ My production portfolio for presenting software engineering, machine-learning, d
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divbytes-prog&show_icons=true&hide_border=true&theme=transparent" height="165" alt="Divyansh Singh GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divbytes-prog&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com?user=divbytes-prog&hide_border=true&mode=daily" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=divbytes-prog&theme=transparent&hide_border=true" alt="GitHub streak" />
+  <img src="https://komarev.com/ghpvc/?username=divbytes-prog&label=Profile%20Views&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/divbytes-prog?label=Followers&style=for-the-badge" alt="GitHub followers" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/divbytes-prog?tab=repositories"><b>Explore all repositories →</b></a>
 </p>
 
 ---
