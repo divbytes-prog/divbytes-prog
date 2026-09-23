@@ -237,6 +237,26 @@ My production portfolio for presenting software engineering, machine-learning, d
 
 ---
 
+## 💳 PayX
+
+A **payment-gateway orchestration sandbox** that demonstrates a unified payment layer across multiple providers with configurable routing and duplicate-payment protection.
+
+### ✨ Highlights
+
+- Multi-gateway routing simulation
+- Balanced, lowest-fee, and lowest-latency policies
+- Idempotency-key protection
+- Gateway health simulation
+- Unified transaction ledger and normalized responses
+- API documentation and adapter architecture
+
+**Tech Stack**  
+`React` `TypeScript` `Vite` `Payment Orchestration` `LocalStorage`
+
+[View Repository →](https://github.com/divbytes-prog/PayX)
+
+---
+
 ## 📊 GitHub Activity
 
 <p align="center">
